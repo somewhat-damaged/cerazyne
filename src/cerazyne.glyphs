@@ -4,7 +4,8 @@
 DisplayStrings = (
 "acoehmnu
 bdpqg
-ilvyvxozomw",
+ovkoiltf
+vyvxozomw",
 );
 customParameters = (
 {
@@ -1874,9 +1875,45 @@ unicode = 567;
 },
 {
 glyphname = k;
+lastChange = "2026-11-05 06:14:56 +0000";
 layers = (
 {
+guides = (
+{
+angle = 226.5911;
+pos = (215,335);
+},
+);
 layerId = "2EE8225F-9B7F-49AA-9AB3-70F1B28C43F4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(220,0,l),
+(220,720,l),
+(90,720,l),
+(90,0,l),
+);
+},
+{
+closed = 1;
+nodes = (
+(570,520,l),
+(400,520,l),
+(90,192,l),
+(220,150,l),
+);
+},
+{
+closed = 1;
+nodes = (
+(220,330,l),
+(430,0,l),
+(580,0,l),
+(370,330,l),
+);
+},
+);
 width = 600;
 },
 );
