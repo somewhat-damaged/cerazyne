@@ -3,7 +3,7 @@
 .formatVersion = 4;
 DisplayStrings = (
 "oro
-Ww
+Wwg
 G&7?2",
 );
 axes = (
@@ -2540,7 +2540,7 @@ unicode = 102;
 },
 {
 glyphname = g;
-lastChange = "2026-11-07 07:02:06 +0000";
+lastChange = "2026-11-07 07:45:14 +0000";
 layers = (
 {
 layerId = "2EE8225F-9B7F-49AA-9AB3-70F1B28C43F4";
@@ -2569,7 +2569,7 @@ nodes = (
 (192,-210,o),
 (292,-210,cs),
 (392,-210,o),
-(537,-180,o),
+(537,-170,o),
 (537,0,cs),
 (537,520,l),
 (407,520,l),
