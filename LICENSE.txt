@@ -1,6 +1,6 @@
-Cerazyne is Copyright (c) 2026, Lane Ware (lane@h7g1.xyz),
+Neue Rows Mono is Copyright (c) 2026, Lane Ware (lane@h7g1.xyz),
 and is licensed under the SIL Open Font License, Version 1.1 (see below).
-Reserved Font Name: "Cerazyne".
+Reserved Font Name: "Neue Rows Mono".
 
 -----------------------------------------------------------
 SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
